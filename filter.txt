@@ -1,0 +1,11 @@
+||juicyads.me^
+||ads-g.juicyads.com^
+||sinaimg.cn/unipro/
+||d3.sina.com.cn^$object,script
+||sbeacon.sina.com.cn^
+||jdbstatic.com/ads/
+_728x90_
+||jads.co^
+/forum/ads/*
+||jads.co^
+/forum/ads/*
